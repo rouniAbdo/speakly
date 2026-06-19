@@ -21,7 +21,7 @@ app focuses on simplicity, persistence and measurable progress.
 
 ## Tech stack
 
-- Flutter (Material 3) — single codebase for mobile, web and desktop
+- Flutter (Material 3) - single codebase for mobile, web and desktop
 - State management: `provider`
 - Local persistence: `shared_preferences`
 - Network: `http` (dictionary lookups) with on-device caching
