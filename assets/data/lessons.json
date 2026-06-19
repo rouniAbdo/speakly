@@ -1,0 +1,432 @@
+[
+  {
+    "id": "lesson_tenses",
+    "category": "Grammar",
+    "level": "Beginner",
+    "title": "Verb Tenses That Matter Most",
+    "summary": "Master the three tenses you will use 90% of the time in writing.",
+    "sections": [
+      {
+        "heading": "Simple Past — finished actions",
+        "body": "Use the simple past for actions that started and finished in the past. Most regular verbs add \"-ed\".",
+        "examples": [
+          { "wrong": "Yesterday I go to the shop.", "right": "Yesterday I went to the shop.", "note": "\"go\" is irregular: go → went." }
+        ]
+      },
+      {
+        "heading": "Present Perfect — past with a present link",
+        "body": "Use \"have/has + past participle\" for past actions that still matter now or have no specific time.",
+        "examples": [
+          { "wrong": "I have seen that film yesterday.", "right": "I saw that film yesterday.", "note": "With a finished time word (yesterday) use simple past." },
+          { "wrong": "I already eat lunch.", "right": "I have already eaten lunch.", "note": null }
+        ]
+      },
+      {
+        "heading": "Present Continuous — happening now",
+        "body": "Use \"am/is/are + verb-ing\" for actions in progress right now or around now.",
+        "examples": [
+          { "wrong": "Look! It rains.", "right": "Look! It is raining.", "note": null }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lesson_articles",
+    "category": "Grammar",
+    "level": "Beginner",
+    "title": "A, An, and The",
+    "summary": "Stop guessing articles — learn the simple rules.",
+    "sections": [
+      {
+        "heading": "a vs. an",
+        "body": "Use \"a\" before a consonant SOUND and \"an\" before a vowel SOUND — it is about sound, not spelling.",
+        "examples": [
+          { "wrong": "a hour", "right": "an hour", "note": "\"hour\" starts with a vowel sound." },
+          { "wrong": "an university", "right": "a university", "note": "\"university\" sounds like \"you-\"." }
+        ]
+      },
+      {
+        "heading": "the — something specific",
+        "body": "Use \"the\" when both you and the reader know exactly which thing you mean, or when it is unique.",
+        "examples": [
+          { "wrong": "I saw a sun this morning.", "right": "I saw the sun this morning.", "note": "There is only one sun — it is unique." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lesson_subject_verb",
+    "category": "Grammar",
+    "level": "Beginner",
+    "title": "Subject–Verb Agreement",
+    "summary": "The verb must match the subject in number.",
+    "sections": [
+      {
+        "heading": "Singular vs plural subjects",
+        "body": "A singular subject takes a singular verb (often ending in -s); a plural subject takes the base verb.",
+        "examples": [
+          { "wrong": "She walk to school.", "right": "She walks to school.", "note": "He/she/it takes the -s form." },
+          { "wrong": "The dogs barks loudly.", "right": "The dogs bark loudly.", "note": "Plural subject, no -s on the verb." }
+        ]
+      },
+      {
+        "heading": "Watch out for words between subject and verb",
+        "body": "Ignore phrases between the subject and verb — agree with the real subject.",
+        "examples": [
+          { "wrong": "The box of apples are heavy.", "right": "The box of apples is heavy.", "note": "The subject is \"box\", not \"apples\"." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lesson_plurals",
+    "category": "Grammar",
+    "level": "Beginner",
+    "title": "Making Plurals Correctly",
+    "summary": "Most plurals add -s, but several common words don't.",
+    "sections": [
+      {
+        "heading": "Regular and -es plurals",
+        "body": "Add -s to most nouns; add -es after s, x, z, ch, sh.",
+        "examples": [
+          { "wrong": "two boxs", "right": "two boxes", "note": "After x, add -es." },
+          { "wrong": "three watchs", "right": "three watches", "note": "After ch, add -es." }
+        ]
+      },
+      {
+        "heading": "Irregular plurals",
+        "body": "Some nouns change completely and must be memorised.",
+        "examples": [
+          { "wrong": "two childs", "right": "two children", "note": null },
+          { "wrong": "many persons", "right": "many people", "note": "\"people\" is the usual plural of person." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lesson_confused",
+    "category": "Grammar",
+    "level": "Intermediate",
+    "title": "Their, There, They're (and friends)",
+    "summary": "Master the homophones that trip up almost everyone.",
+    "sections": [
+      {
+        "heading": "their / there / they're",
+        "body": "their = belonging to them; there = a place; they're = they are.",
+        "examples": [
+          { "wrong": "Their going to they're house over there.", "right": "They're going to their house over there.", "note": null }
+        ]
+      },
+      {
+        "heading": "your / you're",
+        "body": "your = belonging to you; you're = you are.",
+        "examples": [
+          { "wrong": "Your right about you're idea.", "right": "You're right about your idea.", "note": null }
+        ]
+      },
+      {
+        "heading": "to / too / two",
+        "body": "to = direction/infinitive; too = also/excessively; two = the number 2.",
+        "examples": [
+          { "wrong": "I want to go to.", "right": "I want to go too.", "note": "\"too\" means also." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lesson_prepositions",
+    "category": "Grammar",
+    "level": "Intermediate",
+    "title": "In, On, At — Time and Place",
+    "summary": "Pick the right little word for time and location.",
+    "sections": [
+      {
+        "heading": "Time",
+        "body": "at + clock time; on + days/dates; in + months, years, longer periods.",
+        "examples": [
+          { "wrong": "See you at Monday.", "right": "See you on Monday.", "note": "Days take \"on\"." },
+          { "wrong": "I was born on 1998.", "right": "I was born in 1998.", "note": "Years take \"in\"." }
+        ]
+      },
+      {
+        "heading": "Place",
+        "body": "at a point; on a surface; in an enclosed space.",
+        "examples": [
+          { "wrong": "The book is on the drawer.", "right": "The book is in the drawer.", "note": "Inside = \"in\"." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lesson_conditionals",
+    "category": "Grammar",
+    "level": "Advanced",
+    "title": "If-Clauses (Conditionals)",
+    "summary": "Talk about possibilities, hypotheticals and regrets.",
+    "sections": [
+      {
+        "heading": "First conditional — real future",
+        "body": "If + present, will + base verb. Used for likely situations.",
+        "examples": [
+          { "wrong": "If it will rain, I will stay home.", "right": "If it rains, I will stay home.", "note": "No \"will\" in the if-clause." }
+        ]
+      },
+      {
+        "heading": "Second conditional — unreal present",
+        "body": "If + past, would + base verb. Used for imaginary situations.",
+        "examples": [
+          { "wrong": "If I was rich, I will travel.", "right": "If I were rich, I would travel.", "note": "Use \"were\" for all subjects in this pattern." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lesson_apostrophes",
+    "category": "Punctuation",
+    "level": "Beginner",
+    "title": "Apostrophes: Its vs It's",
+    "summary": "Use apostrophes for contractions and possession — but not plurals.",
+    "sections": [
+      {
+        "heading": "its vs it's",
+        "body": "it's = it is / it has. its = belonging to it (no apostrophe).",
+        "examples": [
+          { "wrong": "The dog wagged it's tail.", "right": "The dog wagged its tail.", "note": "Possessive \"its\" has no apostrophe." },
+          { "wrong": "Its raining again.", "right": "It's raining again.", "note": "\"It's\" = it is." }
+        ]
+      },
+      {
+        "heading": "Don't use apostrophes for plurals",
+        "body": "To make a normal plural, just add -s. No apostrophe.",
+        "examples": [
+          { "wrong": "I bought three apple's.", "right": "I bought three apples.", "note": null }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lesson_capitalization",
+    "category": "Punctuation",
+    "level": "Beginner",
+    "title": "Capital Letters",
+    "summary": "Capitalise the right words — no more, no less.",
+    "sections": [
+      {
+        "heading": "What to capitalise",
+        "body": "Capitalise the first word of a sentence, the pronoun \"I\", names, places, days, months and languages.",
+        "examples": [
+          { "wrong": "on monday i will visit london.", "right": "On Monday I will visit London.", "note": null },
+          { "wrong": "she speaks french and english.", "right": "She speaks French and English.", "note": "Languages are capitalised." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lesson_punctuation",
+    "category": "Punctuation",
+    "level": "Intermediate",
+    "title": "Commas, Periods, and the Comma Splice",
+    "summary": "Punctuation controls the rhythm and clarity of your sentences.",
+    "sections": [
+      {
+        "heading": "The comma splice",
+        "body": "Two complete sentences cannot be joined by only a comma. Fix it with a period, a semicolon, or a comma + conjunction.",
+        "examples": [
+          { "wrong": "It was late, I went home.", "right": "It was late, so I went home.", "note": "Add a conjunction (so, and, but) after the comma." },
+          { "wrong": "She loves to read, she reads every night.", "right": "She loves to read; she reads every night.", "note": "A semicolon links two related complete sentences." }
+        ]
+      },
+      {
+        "heading": "Commas in a list (the Oxford comma)",
+        "body": "A comma before \"and\" in a list can prevent confusion. Be consistent.",
+        "examples": [
+          { "wrong": "I invited my parents, a clown and a magician.", "right": "I invited my parents, a clown, and a magician.", "note": "Without the last comma, your parents become the clown and magician!" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lesson_run_ons",
+    "category": "Structure",
+    "level": "Intermediate",
+    "title": "Run-ons and Sentence Fragments",
+    "summary": "Every sentence needs a subject, a verb, and a complete thought.",
+    "sections": [
+      {
+        "heading": "Fragments — incomplete sentences",
+        "body": "A fragment is missing a subject, a verb, or a complete idea. Join it to a full sentence.",
+        "examples": [
+          { "wrong": "Because I was tired.", "right": "I went to bed early because I was tired.", "note": "A reason on its own is not a sentence." }
+        ]
+      },
+      {
+        "heading": "Run-ons — too much in one",
+        "body": "Two complete sentences crammed together need a period, semicolon, or conjunction.",
+        "examples": [
+          { "wrong": "I love writing it makes me happy.", "right": "I love writing. It makes me happy.", "note": null }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lesson_paragraph",
+    "category": "Structure",
+    "level": "Intermediate",
+    "title": "Building a Strong Paragraph",
+    "summary": "One idea, clearly developed — the PEEL method.",
+    "sections": [
+      {
+        "heading": "P-E-E-L",
+        "body": "Point: state your main idea. Evidence: give an example or fact. Explain: say why it matters. Link: connect to the next idea or your overall argument.",
+        "examples": []
+      },
+      {
+        "heading": "One idea per paragraph",
+        "body": "If your paragraph drifts to a second topic, start a new paragraph. Readers use paragraph breaks to follow your thinking.",
+        "examples": []
+      },
+      {
+        "heading": "Topic sentences",
+        "body": "Begin most paragraphs with a sentence that signals what it is about. A reader skimming your topic sentences should grasp your whole argument.",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "id": "lesson_essay",
+    "category": "Structure",
+    "level": "Advanced",
+    "title": "Structuring an Essay",
+    "summary": "Introduction, body, conclusion — give the reader a map.",
+    "sections": [
+      {
+        "heading": "The introduction",
+        "body": "Hook the reader, give brief context, and end with a clear thesis stating your main argument.",
+        "examples": []
+      },
+      {
+        "heading": "Body paragraphs",
+        "body": "Each body paragraph develops one supporting point with evidence and explanation, then links back to the thesis.",
+        "examples": []
+      },
+      {
+        "heading": "The conclusion",
+        "body": "Restate the thesis in fresh words, summarise your key points, and end with a final thought — never introduce new evidence.",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "id": "lesson_email",
+    "category": "Structure",
+    "level": "Intermediate",
+    "title": "Writing a Clear Email",
+    "summary": "Professional emails are short, polite and easy to act on.",
+    "sections": [
+      {
+        "heading": "Subject and greeting",
+        "body": "Write a specific subject line and open with a greeting such as \"Dear Ms Lee,\" or \"Hi Sam,\".",
+        "examples": [
+          { "wrong": "Subject: hey", "right": "Subject: Request to reschedule Friday's meeting", "note": "A specific subject gets a faster reply." }
+        ]
+      },
+      {
+        "heading": "Body and close",
+        "body": "State your purpose in the first line, keep paragraphs short, and close politely: \"Best regards, …\".",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "id": "lesson_show_dont_tell",
+    "category": "Style",
+    "level": "Intermediate",
+    "title": "Show, Don't Tell",
+    "summary": "Let details reveal emotion instead of naming it.",
+    "sections": [
+      {
+        "heading": "Replace labels with evidence",
+        "body": "Instead of stating a feeling, describe what the reader would see or hear.",
+        "examples": [
+          { "wrong": "She was nervous.", "right": "Her hands trembled as she reached for the door.", "note": "The detail makes the feeling real." },
+          { "wrong": "The room was messy.", "right": "Clothes spilled off the chair and mugs crowded every shelf.", "note": null }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lesson_word_choice",
+    "category": "Style",
+    "level": "Intermediate",
+    "title": "Precise Word Choice",
+    "summary": "Specific words paint a sharper picture than vague ones.",
+    "sections": [
+      {
+        "heading": "Swap vague words for precise ones",
+        "body": "Words like \"good\", \"nice\" and \"thing\" carry little meaning. Choose a word that says exactly what you mean.",
+        "examples": [
+          { "wrong": "The food was good.", "right": "The soup was rich and smoky.", "note": null },
+          { "wrong": "He walked into the room.", "right": "He strode into the room.", "note": "A precise verb shows attitude." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lesson_style",
+    "category": "Style",
+    "level": "Advanced",
+    "title": "Write With Power: Cut the Clutter",
+    "summary": "Strong writing is lean. Remove what does not earn its place.",
+    "sections": [
+      {
+        "heading": "Prefer strong verbs",
+        "body": "Replace weak verb + noun combinations with a single strong verb.",
+        "examples": [
+          { "wrong": "She made a decision to leave.", "right": "She decided to leave.", "note": null },
+          { "wrong": "We had a discussion about it.", "right": "We discussed it.", "note": null }
+        ]
+      },
+      {
+        "heading": "Cut filler words",
+        "body": "Words like \"really, very, just, actually, basically\" rarely add meaning. Delete them or use a stronger word.",
+        "examples": [
+          { "wrong": "It was very big.", "right": "It was enormous.", "note": null },
+          { "wrong": "I really think that...", "right": "I think that...", "note": null }
+        ]
+      },
+      {
+        "heading": "Prefer the active voice",
+        "body": "Active voice is usually clearer and more direct than passive.",
+        "examples": [
+          { "wrong": "The ball was thrown by John.", "right": "John threw the ball.", "note": "Passive is fine when the doer is unknown or unimportant." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lesson_connectors",
+    "category": "Style",
+    "level": "Advanced",
+    "title": "Linking Words That Make You Sound Fluent",
+    "summary": "Connectors guide the reader through your logic.",
+    "sections": [
+      {
+        "heading": "Adding & sequencing",
+        "body": "furthermore, moreover, in addition, first / second / finally.",
+        "examples": []
+      },
+      {
+        "heading": "Contrast",
+        "body": "however, nevertheless, on the other hand, whereas, although.",
+        "examples": [
+          { "wrong": "I was tired. But, I finished.", "right": "I was tired; nevertheless, I finished.", "note": null }
+        ]
+      },
+      {
+        "heading": "Cause & result",
+        "body": "therefore, consequently, as a result, thus, hence.",
+        "examples": []
+      }
+    ]
+  }
+]

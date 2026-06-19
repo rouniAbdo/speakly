@@ -1,0 +1,178 @@
+[
+  {
+    "id": "daily_1",
+    "category": "Daily Journal",
+    "level": "Beginner",
+    "title": "My Day",
+    "text": "Describe what you did today from morning to evening. Use simple past tense (I woke up, I ate, I went...). Try to write at least five sentences.",
+    "tips": [
+      "Use time words: first, then, after that, finally.",
+      "Stick to the past tense for finished actions.",
+      "End with how your day made you feel."
+    ],
+    "suggestedWords": 80
+  },
+  {
+    "id": "daily_2",
+    "category": "Daily Journal",
+    "level": "Beginner",
+    "title": "Something I Am Grateful For",
+    "text": "Write about one thing you are thankful for today and explain why it matters to you.",
+    "tips": [
+      "Give a concrete example, not just a general statement.",
+      "Use \"because\" to explain your reasons."
+    ],
+    "suggestedWords": 70
+  },
+  {
+    "id": "daily_3",
+    "category": "Daily Journal",
+    "level": "Intermediate",
+    "title": "A Small Win",
+    "text": "Describe a small success you had recently. What did you do, what challenge did you overcome, and what did you learn?",
+    "tips": [
+      "Show the obstacle before the success to make it interesting.",
+      "Use linking words: although, however, as a result."
+    ],
+    "suggestedWords": 130
+  },
+  {
+    "id": "story_1",
+    "category": "Storytelling",
+    "level": "Beginner",
+    "title": "The Unexpected Letter",
+    "text": "You open your mailbox and find a letter with no name on it. Write what the letter says and what you do next.",
+    "tips": [
+      "Set the scene in the first sentence.",
+      "Use dialogue with quotation marks to bring it to life."
+    ],
+    "suggestedWords": 120
+  },
+  {
+    "id": "story_2",
+    "category": "Storytelling",
+    "level": "Intermediate",
+    "title": "The Door That Should Not Exist",
+    "text": "While walking a familiar street, you notice a door you have never seen before. Tell the story of what happens when you open it.",
+    "tips": [
+      "Build suspense — delay the reveal.",
+      "Appeal to the five senses to immerse the reader.",
+      "Vary sentence length to control pace."
+    ],
+    "suggestedWords": 200
+  },
+  {
+    "id": "story_3",
+    "category": "Storytelling",
+    "level": "Advanced",
+    "title": "An Unreliable Narrator",
+    "text": "Write a short scene told by a narrator the reader slowly realises cannot be fully trusted. Let the truth leak through the cracks.",
+    "tips": [
+      "Plant small contradictions in what the narrator claims.",
+      "Use subtext: what is NOT said can say the most.",
+      "Keep a consistent voice even as doubt grows."
+    ],
+    "suggestedWords": 280
+  },
+  {
+    "id": "opinion_1",
+    "category": "Opinion & Argument",
+    "level": "Intermediate",
+    "title": "Is Social Media Good or Bad?",
+    "text": "State your opinion on whether social media has a positive or negative effect on society. Support it with at least two reasons and examples.",
+    "tips": [
+      "Open with a clear thesis statement.",
+      "One reason per paragraph, each with an example.",
+      "Acknowledge the other side, then refute it."
+    ],
+    "suggestedWords": 180
+  },
+  {
+    "id": "opinion_2",
+    "category": "Opinion & Argument",
+    "level": "Advanced",
+    "title": "Should Education Be Free?",
+    "text": "Argue for or against making higher education free for everyone. Address counter-arguments and use evidence-based reasoning.",
+    "tips": [
+      "Use a clear structure: claim, evidence, reasoning, link.",
+      "Employ academic connectors: furthermore, nevertheless, consequently.",
+      "Avoid emotional language; rely on logic."
+    ],
+    "suggestedWords": 320
+  },
+  {
+    "id": "desc_1",
+    "category": "Descriptive",
+    "level": "Beginner",
+    "title": "My Favourite Place",
+    "text": "Describe a place where you feel calm and happy. What do you see, hear, and smell there?",
+    "tips": [
+      "Use adjectives, but choose precise ones.",
+      "Describe at least three different senses."
+    ],
+    "suggestedWords": 90
+  },
+  {
+    "id": "desc_2",
+    "category": "Descriptive",
+    "level": "Intermediate",
+    "title": "A Storm Arrives",
+    "text": "Describe the moments before, during, and after a thunderstorm without ever using the word \"storm\".",
+    "tips": [
+      "Use strong verbs instead of many adjectives.",
+      "Show change over time — before, during, after.",
+      "Try one metaphor or simile."
+    ],
+    "suggestedWords": 160
+  },
+  {
+    "id": "pro_1",
+    "category": "Practical & Professional",
+    "level": "Intermediate",
+    "title": "A Polite Email",
+    "text": "Write a professional email to a teacher or manager asking to reschedule a meeting. Keep it polite, clear, and brief.",
+    "tips": [
+      "Begin with a greeting and a clear subject line.",
+      "State your request early, then give the reason.",
+      "Close politely: \"Thank you for your understanding.\""
+    ],
+    "suggestedWords": 110
+  },
+  {
+    "id": "pro_2",
+    "category": "Practical & Professional",
+    "level": "Advanced",
+    "title": "A Cover Letter Paragraph",
+    "text": "Write one strong paragraph for a job application explaining why you are a good fit for a role you want.",
+    "tips": [
+      "Match your skills to the job, with one concrete achievement.",
+      "Use confident but not arrogant language.",
+      "Quantify results where you can (e.g. \"improved X by 20%\")."
+    ],
+    "suggestedWords": 150
+  },
+  {
+    "id": "reflect_1",
+    "category": "Reflection",
+    "level": "Intermediate",
+    "title": "A Lesson From a Mistake",
+    "text": "Think of a mistake you made. Describe it honestly and explain what it taught you.",
+    "tips": [
+      "Be specific about what went wrong.",
+      "Focus on growth, not blame."
+    ],
+    "suggestedWords": 160
+  },
+  {
+    "id": "reflect_2",
+    "category": "Reflection",
+    "level": "Advanced",
+    "title": "Who I Was Five Years Ago",
+    "text": "Reflect on how you have changed over the past five years. What stayed the same, and what would surprise your past self?",
+    "tips": [
+      "Contrast past and present clearly.",
+      "Use the present perfect: \"I have learned...\", \"I have become...\"."
+    ],
+    "suggestedWords": 300
+  }
+]
