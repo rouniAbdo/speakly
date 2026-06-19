@@ -118,7 +118,8 @@ Please follow the existing code style and keep changes focused.
 
 ## License
 
-See the `LICENSE` file in the repository, if present.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE)
+file in this repository for the full terms.
 
 ## Contact
 
